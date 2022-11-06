@@ -1,6 +1,5 @@
 ﻿// C++サンプルプログラム：自己再起動 Copyright(C) 2022 https://www.youtube.com/@ProgrammerCpp
 #include <Windows.h>
-#include <array>
 #include <string>
 
 //無限再帰を避けるために追加のコマンドライン引数を設ける
